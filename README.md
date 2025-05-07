@@ -50,8 +50,7 @@ Prerequisites
 - Maven
 
 1. Clone the Repository
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/shubashmuniyappa/patient-management.git
 
 2. Build the Project
    Navigate to each service folder and build the project:
