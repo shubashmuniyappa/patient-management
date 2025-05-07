@@ -1,0 +1,14 @@
+### GET request to example server
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+    "name": "kafka-analytics-test4",
+    "email": "kafka.analytic.test4@example.com",
+    "address": "16009 SE 127th Pl",
+    "dateOfBirth": "1996-09-11",
+    "registeredDate": "2025-02-02"
+
+}
+
+###
